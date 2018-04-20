@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mController/mController.iml" filepath="$PROJECT_DIR$/mController/mController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mInterface/mInterface.iml" filepath="$PROJECT_DIR$/mInterface/mInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mService/mService.iml" filepath="$PROJECT_DIR$/mService/mService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tsVlog.iml" filepath="$PROJECT_DIR$/tsVlog.iml" />
+    </modules>
+  </component>
+</project>

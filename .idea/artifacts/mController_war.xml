@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mController:war">
+    <output-path>$PROJECT_DIR$/mController/target</output-path>
+    <root id="archive" name="mController.war">
+      <element id="artifact" artifact-name="mController:war exploded" />
+    </root>
+  </artifact>
+</component>
